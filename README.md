@@ -1,6 +1,6 @@
-# 📊 Data Analytics Portfolio
+#  Data Analytics Portfolio
 
-## 👋 About Me
+##  About Me
 
 Hi, I'm **Mohamed Attia Saad**, a Computer Science student and aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and business decisions.
 
@@ -8,79 +8,79 @@ I work with data using **Excel, SQL, Python, and Power BI**, with a focus on dat
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 📈 Data Analysis
+###  Data Analysis
 
-- Excel
-- SQL
-- Python
-- Pandas
-- NumPy
+* Excel
+* SQL
+* Python
+* Pandas
+* NumPy
 
-### 📊 Data Visualization
+###  Data Visualization
 
-- Power BI
-- Matplotlib
-- Seaborn
-- Excel Dashboards
+* Power BI
+* Matplotlib
+* Seaborn
+* Excel Dashboards
 
-### 🔍 Data Analytics
+###  Data Analytics
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Transformation
-- Statistical Analysis
-- KPI Analysis
-- Business Insights
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Transformation
+* Statistical Analysis
+* KPI Analysis
+* Business Insights
 
 ---
 
-## 📂 Portfolio Projects
+##  Portfolio Projects
 
-### 🚗 Global Car Sales Analysis
+###  Global Car Sales Analysis
 
 A complete data analytics project focused on analyzing global car sales, identifying sales trends, brand performance, regional patterns, and business insights.
 
 **Tools:** Python, SQL, Excel, Power BI
 
-➡️ [View Global Car Sales Project](./Global_Car_Sales_Project)
+ [View Global Car Sales Project](./Global_Car_Sales_Project)
 
 ---
 
-### ✈️ Flight Booking Analytics
+###  Flight Booking Analytics
 
 A complete data analytics project focused on analyzing flight booking data, identifying booking trends, customer behavior, and business insights.
 
 **Tools:** Python, SQL, Excel, Power BI
 
-➡️ [View Flight Booking Analytics](./Flight_Booking_Analytics)
+ [View Flight Booking Analytics](./Flight_Booking_Analytics)
 
 ---
 
-## 📌 What You Will Find Here
+##  What You Will Find Here
 
-- Real-world Data Analysis Projects
-- Data Cleaning & Preparation
-- Exploratory Data Analysis
-- SQL Analysis
-- Python Data Analysis
-- Excel Analysis
-- Power BI Dashboards
-- Interactive Dashboards
-- Business KPIs
-- Data Visualizations
-- Business Insights
+* Real-world Data Analysis Projects
+* Data Cleaning & Preparation
+* Exploratory Data Analysis
+* SQL Analysis
+* Python Data Analysis
+* Excel Analysis
+* Power BI Dashboards
+* Interactive Dashboards
+* Business KPIs
+* Data Visualizations
+* Business Insights
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 My goal is to use data analysis and visualization to help businesses understand their data, identify important trends, and make data-driven decisions.
 
 ---
 
-## 🛠️ Main Technologies
+##  Main Technologies
 
 ```text
 Excel
@@ -92,21 +92,13 @@ Power BI
 DAX
 Matplotlib
 Seaborn
+```
 
 ---
 
-📫 Contact
+##  Contact
 
-Mohamed Attia Saad
+**Mohamed Attia Saad**
 
-GitHub: My GitHub Profile
-LinkedIn: My LinkedIn Profile
-
-
-
-
-يعني الترتيب:
-
-
-
-وبعدين **Commit changes**.
+*  **GitHub:** [Mohamed Attia Saad](https://github.com/engmohamedattiaai-cmd)
+*  **LinkedIn:** [Mohamed Attia Saad](https://www.linkedin.com/in/mohamed-attia-saad-5380a83b0/)
