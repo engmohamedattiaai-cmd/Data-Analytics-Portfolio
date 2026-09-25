@@ -1,6 +1,6 @@
-# 🚗 Global Car Sales Analysis
+#  Global Car Sales Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing global car sales data to identify sales trends, customer preferences, brand performance, and regional patterns.
 
@@ -8,7 +8,7 @@ The project uses Python, SQL, Excel, and Power BI to clean, analyze, visualize, 
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze global car sales performance
 - Identify top-performing car brands and models
