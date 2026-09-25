@@ -11,6 +11,7 @@ I work with data using **Excel, SQL, Python, and Power BI**, with a focus on dat
 ## 🛠️ Skills & Tools
 
 ### 📈 Data Analysis
+
 - Excel
 - SQL
 - Python
@@ -18,12 +19,14 @@ I work with data using **Excel, SQL, Python, and Power BI**, with a focus on dat
 - NumPy
 
 ### 📊 Data Visualization
+
 - Power BI
 - Matplotlib
 - Seaborn
 - Excel Dashboards
 
 ### 🔍 Data Analytics
+
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Transformation
@@ -89,3 +92,21 @@ Power BI
 DAX
 Matplotlib
 Seaborn
+
+---
+
+📫 Contact
+
+Mohamed Attia Saad
+
+GitHub: My GitHub Profile
+LinkedIn: My LinkedIn Profile
+
+
+
+
+يعني الترتيب:
+
+
+
+وبعدين **Commit changes**.
